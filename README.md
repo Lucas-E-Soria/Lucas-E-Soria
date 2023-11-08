@@ -6,7 +6,7 @@
   
 <h1 align="center">Proyectos en conjunto (Colaboradora de los mismos: @Sofia-GonzalezC):</h1>
 <p align="center">Dilux: una pagina web repleta de información de un mundo de fantasía junto con sus habitantes y sus rangos: 🚧 https://github.com/Lucas-E-Soria/Dilux 🚧 (aún en proceso)</p>
-<p align="center">BlackJack: jugarlo nunca fue tan facil, solo debes hacer click y el resto se hará solo!. Hecho en Python: 🚧 https://github.com/Lucas-E-Soria/BlackJack.git 🚧 (aún en proceso)</p>
+<p align="center">BlackJack: jugarlo nunca fue tan facil, solo debes hacer click y el resto se hará solo!. Hecho en Python: https://github.com/Lucas-E-Soria/BlackJack.git</p>
 <p align="center">Lista de Tareas: Crear tareas, eliminarlas y editarlas ahora es sencillo. con una interfaz agradable a la vista y con un metodo de iniciar sesion y registrarse incluído: 🚧 https://github.com/Lucas-E-Soria/Lista_Tareas.git 🚧 (aún en proceso)
 </p>
 <h1 align="center">Proyectos Propios:</h1>
