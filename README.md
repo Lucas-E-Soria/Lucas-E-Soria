@@ -2,7 +2,7 @@
 <img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/c41f5724-4488-4674-84f3-dd04c40c8008" width="250px" height="300px">
 <p>Aspiro contribuir en las áreas de trabajo requeridas para desarrollar mis habilidades adquiriendo nuevos conocimientos y experiencias como Programador. Busco constantemente superarme en todos los aspectos de mi vida y no le temo a los nuevos desafíos.</p>
 
-<h2><img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/f95a370f-13d9-44e2-a1d7-37d49ca90238" widht="50px" height="50px">https://github.com/Lucas-E-Soria/Lucas-E-Soria/files/13300251/CV.Lucas.pdf</h2>
+<h2><a href="https://github.com/Lucas-E-Soria/Lucas-E-Soria/files/13300251/CV.Lucas.pdf" target="_blank"><img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/f95a370f-13d9-44e2-a1d7-37d49ca90238" widht="50px" height="50px"></a></h2>
   
 <h1>Proyectos en conjunto: Colaboradora de los mismos: @Sofia-GonzalezC</h1>
 <p>Dilux: una pagina web repleta de información de un mundo de fantasía junto con sus habitantes y sus rangos: 🚧 https://github.com/Lucas-E-Soria/Dilux 🚧 (aún en proceso)</p>
