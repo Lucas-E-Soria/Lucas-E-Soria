@@ -9,9 +9,11 @@
 <p align="center">BlackJack: jugarlo nunca fue tan facil, solo debes hacer click y el resto se hará solo!. Hecho en Python: https://github.com/Lucas-E-Soria/BlackJack.git</p>
 <p align="center">Lista de Tareas: Crear tareas, eliminarlas y editarlas ahora es sencillo. con una interfaz agradable a la vista y con un metodo de iniciar sesion y registrarse incluído: https://github.com/Lucas-E-Soria/Lista_Tareas.git
 </p>
+<h4 align="center">(en caso de no poder ver los proyectos puede pedirme un video para ver el funcionamiento del mismo)</h4>
+
 <h1 align="center">Proyectos Propios:</h1>
 <p align="center">🚧 (aún en proceso) 🚧</p>
-<h4 align="center">en caso de no poder ver los proyectos puede pedirme un video para ver el funcionamiento del mismo</h4>
+<h4 align="center">(en caso de no poder ver los proyectos puede pedirme un video para ver el funcionamiento del mismo)</h4>
 
 <h2 align="center">Lenguajes</h2>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120px" height="40px">
