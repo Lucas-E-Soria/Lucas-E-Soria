@@ -18,8 +18,8 @@
 <h2>Contacto</h2>
 <ul>
   <li><h3><img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/e048d86f-b486-4368-a0d9-e4d2f617a1f2" width="60px" height="55px">: 3512256160</h3></li>
-  <li><h3><a href="mailto:azola751@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" height="50px"></a></h3></li>
-  <li><h3><a href="https://www.linkedin.com/in/lucassoria/"><img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/92a44dcc-4093-4584-a3f0-d48d9d2e1f91" width="120px" height="60px"></a></h3></li>
-  <li><h3><a href="https://api.whatsapp.com/send?phone=5493512256160&text=¡Hola!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130px" height="55px"></a></h3></li>
+  <li><h3><a href="mailto:azola751@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" height="50px"></a></h3></li>
+  <li><h3><a href="https://www.linkedin.com/in/lucassoria/" target="_blank"><img src="https://github.com/Lucas-E-Soria/Lucas-E-Soria/assets/136083264/92a44dcc-4093-4584-a3f0-d48d9d2e1f91" width="120px" height="60px"></a></h3></li>
+  <li><h3><a href="https://api.whatsapp.com/send?phone=5493512256160&text=¡Hola!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130px" height="55px"></a></h3></li>
 </ul>
 </body>
