@@ -11,6 +11,7 @@
 </p>
 <h1 align="center">Proyectos Propios:</h1>
 <p align="center">🚧 (aún en proceso) 🚧</p>
+<h4 align="center">en caso de no poder ver los proyectos puede pedirme un video para ver el funcionamiento del mismo</h4>
 
 <h2 align="center">Lenguajes</h2>
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120px" height="40px">
